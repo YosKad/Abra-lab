@@ -1,0 +1,249 @@
+.logo {
+    padding-left: 64px;
+    padding-top: 20px;
+
+}
+
+body {
+    background-color: #fcfaf7;
+}
+
+
+header {
+
+    background-color: #0e1649;
+    height: 100px;
+
+}
+
+#website-article h1 {
+
+    padding: 32px 64px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 72px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 1.44px;
+    text-align: left;
+    color: #0e1649;
+}
+
+.subtext {
+
+    padding: 16px 64px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 26px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -1.56px;
+    text-align: left;
+    color: #1c1c1c;
+}
+
+.inline {
+    display: inline-block;
+}
+
+#Button1 {
+
+    width: 205px;
+    height: 55px;
+    padding: 16px 10px;
+    margin: 24px 16px 72px 64px;
+    border-radius: 12px;
+    background-color: #ff9f00;
+    gap: 10px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #FFF;
+    border: none;
+
+}
+
+#Button2 {
+    width: 205px;
+    height: 55px;
+    padding: 16px 10px;
+    margin: 24px 950px 72px 16px;
+    border-radius: 12px;
+    background-color: #ff9f00;
+    gap: 10px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: solid 2px #ff9f00;
+    color: #ff9f00;
+    background-color: #FFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+
+}
+
+#second-head {
+    width: 363px;
+    height: 27px;
+    flex-grow: 0;
+    margin: 0px 1013px 16px 64px;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.48px;
+    text-align: left;
+    color: rgba(14, 22, 73, 0.8);
+}
+
+
+.paragraph {
+    width: 648px;
+    height: 108px;
+    margin: 16px 728px 41px 64px;
+    color: #1c1c1c;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+
+}
+
+.horizon-line {
+    width: 648px;
+    height: 1px;
+    margin: 41px 728px 40px 64px;
+    background-color: #e1e1e1;
+}
+
+.third-head {
+    margin: 40px 1125px 16px 64px;
+    width: 251px;
+    height: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.48px;
+    text-align: left;
+    color: #1c1c1c;
+}
+
+#img-1 {
+
+    margin: 40px 728px 39px 64px;
+    width: 648px;
+    height: 414px;
+    object-fit: contain;
+}
+
+.Bold-text {
+
+    font-weight: bold;
+}
+
+.Orange-text {
+    color: #ff7748;
+    text-decoration: underline;
+
+}
+
+.fourth-head {
+    margin: 40px 1113px 16px 64px;
+    width: 263px;
+    height: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.48px;
+    text-align: left;
+    color: #1c1c1c;
+}
+
+#Number-list {
+    margin: 16px 728px 0px 64px;
+    width: 648px;
+    height: 160px;
+    flex-grow: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.78;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1c1c1c;
+
+
+
+}
+
+#Dott-list {
+    margin: 0px 728px 0px 72px;
+    width: 632px;
+    height: 160px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.78;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1c1c1c;
+
+}
+
+#img-2 {
+
+    margin: 40px 728px 40px 64px;
+    width: 648px;
+    height: 287px;
+    object-fit: contain;
+}
+
+.Orange-link {
+
+    margin: 40px 1224px 58px 64px;
+    color: #ff7748;
+    padding-bottom: 58px;
+    width: 152px;
+    height: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.78;
+    letter-spacing: normal;
+    text-align: left;
+
+}
